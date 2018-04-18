@@ -1,7 +1,7 @@
 # My Portfolio
-This is the process of creating my portfolio
 
 ### Version 1.0.0
+This is the process of creating my portfolio
 
 ## Getting started
 Before you start you should:
